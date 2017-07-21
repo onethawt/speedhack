@@ -11,6 +11,7 @@ Detours from Microsoft Research
 You'll have to handle disabling the speedhack and unloading the DLL yourself. If you rarely reboot, beware that GetTickCount will start returning wrapped values after 49.7 days.
 
 ## License
+```
 //
 // DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 // Version 2, December 2004
@@ -27,3 +28,4 @@ You'll have to handle disabling the speedhack and unloading the DLL yourself. If
 //
 // 0. You just DO WHAT THE FUCK YOU WANT TO.
 //
+```
